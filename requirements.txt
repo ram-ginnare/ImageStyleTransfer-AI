@@ -1,2 +1,8 @@
 torch
 torchvision
+
+flask
+flask_wtf
+flask_bootstrap
+wtforms
+PIL
